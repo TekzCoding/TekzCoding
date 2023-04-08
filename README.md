@@ -1,4 +1,4 @@
-![logo](https://github.com/TekzCoding/TekzCoding/blob/main/GitHub%20Banner.PNG)
+![logo](https://github.com/TekzCoding/TekzCoding/blob/main/GitHub%20Banner%202.PNG)
 
 <h1 align="center">Hi 👋, I'm Anas Mohammed</h1>
 <h3 align="center">A passionate developer from Saudi Arabia</h3>
